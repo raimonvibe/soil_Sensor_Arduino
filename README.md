@@ -65,7 +65,7 @@ Open the Serial Monitor in the Arduino IDE (set to 9600 baud) to view real-time 
 soil-moisture-sensor/
 ├── README.md         # Project documentation
 ├── LICENSE           # MIT License
-├── soil_sensor.jpg   # Image of the soil sensor setup
+├── soil_sensor.jpeg   # Image of the soil sensor setup
 ├── code/             # Arduino code
 └── schematics/       # Circuit diagrams
 ```

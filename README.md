@@ -1,6 +1,6 @@
 # 🌱 Soil Moisture Sensor with Arduino
 
-![Soil Sensor](./soil_sensor.jpg)
+![Soil Sensor](./soil_sensor.jpeg)
 
 > A fun and functional project to monitor soil moisture levels using an Arduino, complete with LEDs and a buzzer! This project is perfect for plant enthusiasts and tech lovers alike. 🌿
 

@@ -46,7 +46,7 @@
 ## 🚀 Getting Started
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/soil-moisture-sensor.git
+git clone https://github.com/<your-username>/soil_Sensor_Arduino.git
 ```
 
 ### 2. Upload the Code
